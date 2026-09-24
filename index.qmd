@@ -1,0 +1,36 @@
+---
+title: "Mantuka Masnoon Umama"
+image: /profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      href: mailto:mantukaumama@gmail.com   
+    - icon: linkedin
+      href: https://linkedin.com/in/mantuka-masnoon-umama
+      target: _blank
+    - icon: github
+      href: https://github.com/mmasnoon
+      target: _blank
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0009-0004-9432-3958
+      target: _blank
+    
+---
+
+::: {#hero-heading}
+
+Hello, I am *Mantuka Masnoon Umama*.
+
+Hi, I’m Mantuka Masnoon Umama — a microbiologist with a growing focus on computational and structural biology.
+
+I completed my BSc in Microbiology at North South University and am currently pursuing an MS in Biotechnology at the same institution. My research interests lie at the intersection of wet-lab microbiology and computation, particularly in molecular biology, protein structure, bioinformatics, and biological data analysis.
+
+My undergraduate thesis explored the structural and evolutionary relationship between GOLT1B and IFITM3, combining phylogenetics, sequence analysis, protein structure prediction, and functional domain analysis.
+
+I’m interested in using computational approaches alongside experimental biology to better understand complex biological questions. This site is where I share my research, projects, and work in computational biology.
+
+
+:::

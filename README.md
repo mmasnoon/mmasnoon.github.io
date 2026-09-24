@@ -1,2 +1,2 @@
-# mmasnoon.github.io
-Personal Website for Mantuka Masnoon Umama
+# academic-website-template
+Template for Academic Website
